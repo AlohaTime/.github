@@ -13,7 +13,7 @@
     인하대학교 학생들의 온라인 출석 및 과제를 한 눈에 확인할 수 있는 홈페이지
     <br />
     <br />
-    <a href="https://alohatime.github.io/aloha-react-frontend/">Homapage</a>
+    <a href="https://alohatime.github.io/aloha-react-frontend/">Homapage</a>
     ·
     <a href="https://github.com/AlohaTime/aloha-react-frontend/issues">Report Bug</a>
     ·
