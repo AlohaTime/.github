@@ -14,6 +14,8 @@
     <br />
     <br />
     <a href="https://alohatime.github.io/aloha-react-frontend/">Homapage</a>
+    .
+    <a href="https://c9u11.notion.site/Aloha-Time-8b69aa28a04b4a6495d721f63c938978?pvs=4">Notion</a>
     ·
     <a href="https://github.com/AlohaTime/aloha-react-frontend/issues">Report Bug</a>
     ·
