@@ -3,17 +3,17 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://alohatime.github.io/aloha-react-frontend/">
+  <a href="https://aloha-react-frontend.vercel.app">
     <img src="https://alohatime.github.io/aloha-react-frontend/logo.png" alt="Logo" width="160" height="160">
   </a>
-
+  
   <h3 align="center">Aloha Time</h3>
 
   <p align="center">
     인하대학교 학생들의 온라인 출석 및 과제를 한 눈에 확인할 수 있는 홈페이지
     <br />
     <br />
-    <a href="https://alohatime.github.io/aloha-react-frontend/">Homapage</a>
+    <a href="https://aloha-react-frontend.vercel.app/">Homapage</a>
     .
     <a href="https://c9u11.notion.site/Aloha-Time-8b69aa28a04b4a6495d721f63c938978?pvs=4">Notion</a>
     ·
